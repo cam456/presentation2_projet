@@ -14,10 +14,6 @@ Crée une experience relaxante et magique qui relie les personnes entres eux.
 
 ### Interactif
 
-### Naratif
-
-### Expériece Utilisateur
-
 ## Ambiance
 
 ### Planche d'ambiances visuelles
