@@ -1,10 +1,12 @@
 # Fleural par Camilia Bouatmani
 
 ### Concept 
-Fleural est un projet multimédia intéractif qui est pour tout ages. Dans une sale il y a 4 fleur. Lorsque les fleurs sont innactif il on une lumière au sol qui augmente et decend doucement. De plus il y a une music ambiante qui joue derrière.Pour activé les fleurs il faut que les personnes vont en dessou. Lorsque une des fleurs est activé, la musique ambiante arréte et le sons de la fleur activé joue. La fleur, lors de l'activation, s'ouvre est créé un champs de lumiére. Lorsque tout les fleurs sont activer il créé une harmonie. Meme chose si deux ou trois sont activer. 
+
+Dans une sale il y a 4 fleur, lorsque les fleurs sont innactif il on une lumière au sol qui augmente et decend doucement. De plus il y a une music ambiante qui joue derrière.Pour activé les fleurs il faut que les personnes vont en dessous de celle-ci. Lorsque une des fleurs est activé, la musique ambiante arréte et le sons de la fleur activé joue. La fleur, lors de l'activation, s'ouvre est créé un champs de lumiére. Lorsque tout les fleurs sont activer il créé une harmonie. Meme chose si deux ou trois sont activer. Fleural est un projet multimédia intéractif qui est pour tout ages. 
 
 
 ### Objectif
+Crée une experience relaxante et magique qui relie les personnes entres eux. 
 
 ### Motivation
 
@@ -35,4 +37,7 @@ Fleural est un projet multimédia intéractif qui est pour tout ages. Dans une s
 * 8 lumiére (deux dans chaques fleur)
   
 ### Logiciels
+* Arduino
+* QLC plus
+* reaper 
 
