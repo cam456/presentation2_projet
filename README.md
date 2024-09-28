@@ -11,9 +11,8 @@ Crée une expérience relaxante et magique qui relie les personnes entre elles.
 ### Motivation
 La pendémie a rendu les connexions humaines organiques très difficiles à établir. Cette installation a pour but de les recréer avec la collaboration d'autres êtres humains.
 
-## Scénario
+## Scénario Interactif
 
-### Interactif
 
 ## Ambiance
 
@@ -34,16 +33,13 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 
 ### Matériel utiliser
-* detecteur de chaleur coder avec arduino
-* moteur arduino
-* les 4 fleurs
+* Detecteur d'humain coder avec arduino
+* Moteur arduino
+* Les 4 fleurs
 * 8 lumiére (deux dans chaques fleur)
 * 4 haut parleur
   
 ### Logiciels
-* Arduino
-* QLC plus
-* reaper
 
 | Logiciel    | Technique |
 | -------- | ------- |
@@ -51,5 +47,5 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 | QLC + | Afin de coder le jeux lumières pour chaque fleur     |
 | Plug Data    | Afin d'ajouter des effets sur les lumières pour qu'il change    |
 | Reaper    | Montage des trames sonores    |
-| Plugdata    | Création d'un lfo pour modifier les couleurs des lumières    |
+| Osc bridge   | Connection entre Arduino et tout les autres logiciel      |
 
