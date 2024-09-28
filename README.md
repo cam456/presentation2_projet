@@ -53,7 +53,7 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 | Les médias    | intégration |
 | -------- | ------- |
 | Les fleurs  | Les fleurs sont dans les 4 coins de la pièce    |
-| Lumière | 8 Lumières DMX, 1 pour chaque fleur et 4 pour illuminer la pièce    |
+| Lumière | 9 Lumières DMX, 1 pour chaque fleur et 4 pour illuminer la pièce    |
 | Detecteur d'humain    | 1 pour que l'ambiance de base joue et 4 pour chaque fleur    |
 | Audio    | L'ambiance de base joue lorsque qu'il n'y a aucune interaction et lors des interactions    |
 
