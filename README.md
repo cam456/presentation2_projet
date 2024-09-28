@@ -2,13 +2,14 @@
 
 ### Concept 
 
-Dans une salle, 4 fleurs sont réparties dans chaque coin, lorsque les fleurs sont inactives, une lumière au sol allume, et ce ferme doucement. De plus, il y a une musique ambiante qui joue . Pour activer les fleurs, il faut que les personnes aillent en dessous de celle-ci. Lorsqu’une des fleurs est activée, la musique ambiante arrête et le son de la fleur activé joue. La fleur, lors de l'activation, s'ouvre, est créé un champ de lumière. Lorsque toutes les fleurs sont activées, ils crées une harmonie. Même chose si deux ou trois sont activés. Fleural est un projet multimédia interactif qui est pour tout âge. 
+Dans une salle, 4 fleurs sont réparties dans chaque coin. Lorsque les fleurs sont inactives, une lumière au sol s'allume et se ferme doucement. De plus, il y a une musique ambiante qui joue. Pour activer les fleurs, il faut que les personnes aillent en dessous de celles-ci. Lorsqu’une des fleurs est activée, la musique ambiante arrête et le son de la fleur activé joue. La fleur, lors de l'activation, s'ouvre, est créé un champ de lumière. Lorsque toutes les fleurs sont activées, elles créent une harmonie. Même chose si deux ou trois sont activés. Fleural est un projet multimédia interactif qui est pour tout âge.
 
 
 ### Objectif
-Crée une experience relaxante et magique qui relie les personnes entres eux. 
+Crée une expérience relaxante et magique qui relie les personnes entre elles.
 
 ### Motivation
+La pendémie a rendu les connexions humaines organiques très difficiles à établir. Cette installation a pour but de les recréer avec la collaboration d'autres êtres humains.
 
 ## Scénario
 
@@ -17,14 +18,19 @@ Crée une experience relaxante et magique qui relie les personnes entres eux.
 ## Ambiance
 
 ### Planche d'ambiances visuelles
+![image](https://github.com/user-attachments/assets/3f2f0827-4f88-4052-b0c2-83aade99e2e1)
 
 ### Planche d'ambiances sonores
 
 ### Références artistiques
+## esthétique et le design
+## Choix de références visuelles
+## Choix de références sonores
 
 ## Technologies
 
 ### Support médiatique
+
 
 ### Matériel utiliser
 * detecteur de chaleur coder avec arduino
