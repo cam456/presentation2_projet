@@ -17,7 +17,7 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ## Ambiance
 
-## Planche d'ambiances visuelle
+### Planche d'ambiances visuelle
 ![planche_d'ambiance visuelle](https://github.com/cam456/presentation2_projet/blob/main/media/PLANCHEAMBIANCE.png)
 
 
