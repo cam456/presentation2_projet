@@ -22,7 +22,7 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ### Planche d'ambiances sonores
 
-| Object    | trame sonore |
+| Object    | nom des trames sonores |
 | -------- | ------- |
 | Ambiance de base  | [pov you're a heart broken witch ](https://www.youtube.com/watch?v=vxYZJ1-EWVQ)    |
 | Fleur 1 | [pov: you're a mermaid in love](https://www.youtube.com/watch?v=U_02FMDyJOU&list=PLqpeMhCB55CmLuh9VQNkxPIBa52ekTbLW)     |
@@ -47,23 +47,28 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 
 ## Technologies
 
-### Support médiatique
-
+### Support médiatiqueà
+| Les médias    | intégration |
+| -------- | ------- |
+| Les fleurs  | Les fleurs sont dans les 4 coins de la pièce    |
+| Lumière | 8 Lumières DMX, 1 pour chaque fleur et 4 pour illuminer la pièce    |
+| Detecteur d'humain    | 1 pour que l'ambiance de base joue et 4 pour chaque fleur    |
+| Audio    | L'ambiance de base joue lorsque qu'il n'y a aucune interaction et lors des interactions    |
 
 ### Matériel utiliser
 * 5 Detecteur d'humain coder avec arduino
 * Moteur arduino
 * Les 4 fleurs
-* 12 lumiére (deux dans chaques fleur + 4 lumiére afin d'iluminer la pieces)
+* 8 DMX lumiére
 * 4 haut parleur
   
 ### Logiciels
 
 | Logiciel    | Technique |
 | -------- | ------- |
-| Arduino  | Pour coder les sensors afin qu'il démare les fleurs, leur lumière et trame sonore    |
-| QLC + | Afin de coder le jeux lumières pour chaque fleur     |
+| Arduino  | Pour coder les sensors afin qu'ils démarrent les fleurs, leur lumière et trame sonore    |
+| QLC + | Afin de coder le jeu de lumières pour chaque fleur     |
 | Plug Data    | Afin d'ajouter des effets sur les lumières pour qu'il change    |
 | Reaper    | Montage des trames sonores    |
-| Osc bridge   | Connection entre Arduino et tout les autres logiciel      |
+| Osc bridge   | Connection entre Arduino et tous les autres logiciels      |
 
