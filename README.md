@@ -58,10 +58,10 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 
 ### Matériel utiliser
 * 5 Detecteur d'humain coder avec arduino
-* Moteur arduino
+* 4 Moteur arduino
 * Les 4 fleurs
-* 8 DMX lumiére
-* 4 haut parleur
+* 9 DMX lumiére
+* 5 haut parleur
   
 ### Logiciels
 
