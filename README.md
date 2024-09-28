@@ -24,9 +24,17 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ## Références artistiques
 
-### esthétique et le design
+### Choix esthétique et de design
+
+Les fleurs dans la nature ont inspiré la palette de couleur. La palette sera également utilisée sur les lumières de la piece. 
+
 ### Choix de références visuelles
+
+L'installation contiendra 4 fleurs de différentes sortes et couleurs afin d'apporter de la diversité. Ils seront, par contre, de la même taille afin que l'expérience soit harmonieuse.
+
 ### Choix de références sonores
+
+Les ambiances choisies créent un environnement féerique et calme qui rend les gens émotionnels lorsque les 4 trames sonores des fleurs jouent ensemble.
 
 ## Technologies
 
