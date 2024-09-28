@@ -24,11 +24,11 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 | Object    | trame sonore |
 | -------- | ------- |
-| Ambiance de base  | Elles sont présentes sur tous les murs et le plafond du début à la fin de l'expérience.    |
-| Fleur 1 | Une ambiance de base joue durant l'expérience et plusieurs sons y sont ajoutés.     |
-| Fleur 2   | Ces lumières apportent une ambiance bleautée à l'expérience.    |
-| Fleur 3    |  Celui-ci permet l'interactivité de Glacial.    |
-| Fleur 4    |  Celui-ci permet l'interactivité de Glacial.    |
+| Ambiance de base  | [pov you're a heart broken witch ](https://www.youtube.com/watch?v=vxYZJ1-EWVQ)    |
+| Fleur 1 | [pov: you're a mermaid in love](https://www.youtube.com/watch?v=U_02FMDyJOU&list=PLqpeMhCB55CmLuh9VQNkxPIBa52ekTbLW)     |
+| Fleur 2   | [pov: you're a heartbroken vampire](https://www.youtube.com/watch?v=MvkBrbs9qPg&list=PLqpeMhCB55Cn803YyDNMm_rJMJFQI9zMC&index=1)    |
+| Fleur 3    |  [pov: you're a heartbroken vampire](https://www.youtube.com/watch?v=MvkBrbs9qPg&list=PLqpeMhCB55Cn803YyDNMm_rJMJFQI9zMC&index=1)    |
+| Fleur 4    |  [pov: you're in winterfell](https://www.youtube.com/watch?v=lZMtOF8Qcjs)    |
 
 
 ## Références artistiques
