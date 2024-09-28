@@ -7,8 +7,6 @@ Dans une salle, 4 fleurs sont réparties dans chaque coin. Lorsque les fleurs so
 
 ![image](https://github.com/user-attachments/assets/7cb1173d-3558-44fa-9516-c0158549121b)
 
-![Concept](https://github.com/cam456/presentation2_projet/blob/main/media/MAP_DE_LA_PIECE.png)
-
 ### Objectif
 Crée une expérience relaxante et magique qui relie les personnes entre elles.
 
@@ -18,13 +16,10 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 ## Scénario Interactif
 ![image](https://github.com/user-attachments/assets/eb9dd9c8-7b1e-4a6f-848c-a30b30fcde57)
 
-![Scenario interactif](https://github.com/cam456/presentation2_projet/blob/main/media/scenariomedia2)
 ## Ambiance
 
 ### Planche d'ambiances visuelle
 ![image](https://github.com/user-attachments/assets/372bec70-6584-4a7c-9a25-fc37356a551d)
-
-![planche_d'ambiance visuelle](https://github.com/cam456/presentation2_projet/blob/main/media/PLANCHEAMBIANCE.png)
 
 
 ### Planche d'ambiances sonores
