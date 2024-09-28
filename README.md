@@ -17,6 +17,16 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ## Ambiance
 
+## Planche d'ambiances visuelle
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/frame_7"
+android:layout_width="11620dp"
+android:layout_height="7125dp"
+ />
+
+
+
 ### Planche d'ambiances sonores
 
 ### Références artistiques
