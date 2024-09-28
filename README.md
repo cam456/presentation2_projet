@@ -13,7 +13,7 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ## Scénario Interactif
 
-
+![planche_d'ambiance visuelle](https://github.com/cam456/presentation2_projet/blob/main/media/scenariomedia)
 ## Ambiance
 
 ### Planche d'ambiances visuelle
