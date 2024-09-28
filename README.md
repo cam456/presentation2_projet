@@ -47,7 +47,7 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 
 ## Technologies
 
-### Support médiatiqueà
+### Support médiatique
 | Les médias    | intégration |
 | -------- | ------- |
 | Les fleurs  | Les fleurs sont dans les 4 coins de la pièce    |
