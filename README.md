@@ -44,3 +44,10 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 * Arduino
 * QLC plus
 * reaper
+
+  | Logiciel | technique   |
+| -------- | ------- |
+| Arduino  |  Pour coder les sensors afin qu'il démare les fleurs, leur lumière et trame sonore |
+| QLC plus | Afin de coder le jeux lumières pour chaque fleur |
+| Plug Data |  Afin d'ajouter des effets sur les lumières pour qu'il change |
+| reaper |  Montage sonore |
