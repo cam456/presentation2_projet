@@ -22,10 +22,11 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ### Planche d'ambiances sonores
 
-### Références artistiques
-## esthétique et le design
-## Choix de références visuelles
-## Choix de références sonores
+## Références artistiques
+
+### esthétique et le design
+### Choix de références visuelles
+### Choix de références sonores
 
 ## Technologies
 
