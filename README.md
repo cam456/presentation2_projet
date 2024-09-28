@@ -51,7 +51,7 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 
 
 ### Matériel utiliser
-* Detecteur d'humain coder avec arduino
+* 5 Detecteur d'humain coder avec arduino
 * Moteur arduino
 * Les 4 fleurs
 * 12 lumiére (deux dans chaques fleur + 4 lumiére afin d'iluminer la pieces)
