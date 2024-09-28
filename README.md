@@ -22,6 +22,15 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ### Planche d'ambiances sonores
 
+| Object    | trame sonore |
+| -------- | ------- |
+| Ambiance de base  | Elles sont présentes sur tous les murs et le plafond du début à la fin de l'expérience.    |
+| Fleur 1 | Une ambiance de base joue durant l'expérience et plusieurs sons y sont ajoutés.     |
+| Fleur 2   | Ces lumières apportent une ambiance bleautée à l'expérience.    |
+| Fleur 3    |  Celui-ci permet l'interactivité de Glacial.    |
+| Fleur 4    |  Celui-ci permet l'interactivité de Glacial.    |
+
+
 ## Références artistiques
 
 ### Choix esthétique et de design
