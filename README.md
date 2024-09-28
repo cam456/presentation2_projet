@@ -36,7 +36,7 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 * Detecteur d'humain coder avec arduino
 * Moteur arduino
 * Les 4 fleurs
-* 8 lumiére (deux dans chaques fleur)
+* 12 lumiére (deux dans chaques fleur + 4 lumiére afin d'iluminer la pieces)
 * 4 haut parleur
   
 ### Logiciels
