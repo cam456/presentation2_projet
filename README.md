@@ -16,8 +16,8 @@ Crée une expérience relaxante et magique qui relie les personnes entre elles.
 La pendémie a rendu les connexions humaines organiques très difficiles à établir. Cette installation a pour but de les recréer avec la collaboration d'autres êtres humains.
 
 ## Scénario Interactif
+![image](https://github.com/user-attachments/assets/eb9dd9c8-7b1e-4a6f-848c-a30b30fcde57)
 
-![image](https://github.com/cam456/presentation2_projet/blob/main/media/scenariomedia2)
 ![Scenario interactif](https://github.com/cam456/presentation2_projet/blob/main/media/scenariomedia2)
 ## Ambiance
 
