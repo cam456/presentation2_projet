@@ -21,6 +21,7 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ## Scénario Interactif
 
+![image](https://github.com/user-attachments/assets/ea2239b3-e716-40d7-8e30-48b89dcc7ffd)
 
 
 ![image](https://github.com/user-attachments/assets/eb9dd9c8-7b1e-4a6f-848c-a30b30fcde57)
