@@ -1,4 +1,4 @@
-![scenario](https://github.com/user-attachments/assets/2896592e-303f-4e4b-9a65-a67b2a2fc6f2)# Fleural par Camilia Bouatmani
+# Fleural par Camilia Bouatmani
 
 ## Idée 
 
