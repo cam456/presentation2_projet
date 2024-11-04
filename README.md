@@ -4,7 +4,7 @@
 
 ### Concept
 
-Dans une salle, 4 fleurs sont réparties dans chaque coin. Lorsque les fleurs sont inactives, une lumière au sol s'allume et se ferme doucement. De plus, il y a une musique ambiante qui joue. Pour activer les fleurs, il faut que les personnes aillent en dessous de celles-ci. Lorsqu’une des fleurs est activée, la musique ambiante arrête et le son de la fleur activé joue. La fleur, lors de l'activation, s'ouvre, est créé un champ de lumière. Lorsque toutes les fleurs sont activées, elles créent une harmonie. Même chose si deux ou trois sont activés. Fleural est un projet multimédia interactif qui est pour tout âge.
+Dans une salle, il y a quatre fleurs, une dans chaque coin. Quand elles ne sont pas utilisées, une lumière au sol s'allume et s'éteint doucement, et une musique douce joue en arrière-plan. Pour activer une fleur, il suffit de se placer en dessous. Quand une fleur s'active, la musique s'arrête et un son spécial de la fleur se fait entendre. La fleur crée alors un champ de lumière. Quand toutes les fleurs sont activées, elles produisent une belle harmonie, mais même deux ou trois fleurs activées peuvent créer une belle mélodie. Fleural est un projet multimédia interactif qui convient à tous les âges.
 
 | photo 3d    |  |
 | -------- | ------- |
