@@ -68,15 +68,15 @@ L'installation contiendra 4 fleurs de différentes sortes et couleurs afin d'app
 Les ambiances choisies créent un environnement féerique et calme qui rend les gens émotionnels lorsque les 4 trames sonores des fleurs jouent ensemble.
 
 ## Plantation
-| dessin |
+| |
 | -------- |
-| ![image](https://github.com/user-attachments/assets/7cb1173d-3558-44fa-9516-c0158549121b)
+| ![image](https://github.com/user-attachments/assets/7cb1173d-3558-44fa-9516-c0158549121b)   |
 | ![6](https://github.com/user-attachments/assets/53428b61-5161-4492-8ed6-1fb8d77b5b71)   |
+| ![1](https://github.com/user-attachments/assets/b477d559-6819-4a05-aa2d-95b4aaf22236)   |
+
+
 
 ## Technologies
-
-
-
 
 
 ### Support médiatique
