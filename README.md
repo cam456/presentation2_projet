@@ -83,8 +83,9 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 ## Plantation
 | |
 | -------- |
-| ![image](https://github.com/user-attachments/assets/7cb1173d-3558-44fa-9516-c0158549121b)   |
+| ![13](https://github.com/user-attachments/assets/aa4f8697-b1fb-41e5-b218-099d159721d3)   |
 | ![6](https://github.com/user-attachments/assets/53428b61-5161-4492-8ed6-1fb8d77b5b71)   |
+
 
 
 
