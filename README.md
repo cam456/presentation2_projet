@@ -4,8 +4,9 @@
 
 ### Concept
 Dans une salle, 4 fleurs sont réparties dans chaque coin. Lorsque les fleurs sont inactives, une lumière au sol s'allume et se ferme doucement. De plus, il y a une musique ambiante qui joue. Pour activer les fleurs, il faut que les personnes aillent en dessous de celles-ci. Lorsqu’une des fleurs est activée, la musique ambiante arrête et le son de la fleur activé joue. La fleur, lors de l'activation, s'ouvre, est créé un champ de lumière. Lorsque toutes les fleurs sont activées, elles créent une harmonie. Même chose si deux ou trois sont activés. Fleural est un projet multimédia interactif qui est pour tout âge.
+![12](https://github.com/user-attachments/assets/092cb94b-6e8a-421d-90e6-d60dfae3f006)
 
-![image](https://github.com/user-attachments/assets/7cb1173d-3558-44fa-9516-c0158549121b)
+
 
 ### Objectif
 Crée une expérience relaxante et magique qui relie les personnes entre elles.
@@ -48,6 +49,7 @@ L'installation contiendra 4 fleurs de différentes sortes et couleurs afin d'app
 Les ambiances choisies créent un environnement féerique et calme qui rend les gens émotionnels lorsque les 4 trames sonores des fleurs jouent ensemble.
 
 ## Technologies
+![image](https://github.com/user-attachments/assets/7cb1173d-3558-44fa-9516-c0158549121b)
 
 ### Support médiatique
 | Les médias    | intégration |
