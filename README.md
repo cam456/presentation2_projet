@@ -83,10 +83,17 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 ## Plantation
 | |
 | -------- |
+![13](https://github.com/user-attachments/assets/aa4f8697-b1fb-41e5-b218-099d159721d3)
+![6](https://github.com/user-attachments/assets/53428b61-5161-4492-8ed6-1fb8d77b5b71)
 | ![13](https://github.com/user-attachments/assets/aa4f8697-b1fb-41e5-b218-099d159721d3)   |
 | ![6](https://github.com/user-attachments/assets/53428b61-5161-4492-8ed6-1fb8d77b5b71)   |
 
 
+
+### Gestions des câblages
+Les câblages des cinq lumières et des deux haut-parleurs seront installés sur la structure du plafond.
+Les cablsges des fleur serons disimuler a l'intérieur d'eux meme (leur tuyaux) et la plateforme de bois en dessous.
+Tous les câbles seront ensuite cachés et connecter à l'extérieur de la salle.
 
 
 ## Technologies
@@ -98,7 +105,7 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 | Les fleurs  | Les fleurs sont dans les 4 coins de la pièce    |
 | Lumière | 9 Lumières DMX, 1 pour chaque fleur et 4 pour illuminer la pièce    |
 | Detecteur d'humain    | 1 pour que l'ambiance de base joue et 4 pour chaque fleur    |
-| Audio    | L'ambiance de base joue lorsque qu'il n'y a aucune interaction et lors des interactions    |
+| Audio | L'ambiance de base joue lorsque qu'il n'y a aucune interaction et lors des interactions    |
 
 ### Matériel pour les fleurs
 * Fabrique
@@ -111,7 +118,6 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
   
 ### Matériel utiliser
 * 5 Detecteur d'humain coder avec arduino
-* 4 Moteur arduino
 * Les 4 fleurs
 * 9 DMX lumiére
 * 5 haut parleur
