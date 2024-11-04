@@ -6,14 +6,10 @@
 
 Dans une salle, 4 fleurs sont réparties dans chaque coin. Lorsque les fleurs sont inactives, une lumière au sol s'allume et se ferme doucement. De plus, il y a une musique ambiante qui joue. Pour activer les fleurs, il faut que les personnes aillent en dessous de celles-ci. Lorsqu’une des fleurs est activée, la musique ambiante arrête et le son de la fleur activé joue. La fleur, lors de l'activation, s'ouvre, est créé un champ de lumière. Lorsque toutes les fleurs sont activées, elles créent une harmonie. Même chose si deux ou trois sont activés. Fleural est un projet multimédia interactif qui est pour tout âge.
 
-| Object    | nom des trames sonores |
+
 | -------- | ------- |
 | ![image](https://github.com/user-attachments/assets/45eae04b-ebb2-4129-8e74-7171c3e5c1d9)  | ![12](https://github.com/user-attachments/assets/092cb94b-6e8a-421d-90e6-d60dfae3f006)   |
 
-
-![image](https://github.com/user-attachments/assets/45eae04b-ebb2-4129-8e74-7171c3e5c1d9)
-
-![12](https://github.com/user-attachments/assets/092cb94b-6e8a-421d-90e6-d60dfae3f006)
 
 
 
