@@ -39,10 +39,12 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 | Fleur 3    |  [pov: you're a heartbroken werewolf](https://www.youtube.com/watch?v=8ezZtyN03S0&list=PLqpeMhCB55Cn803YyDNMm_rJMJFQI9zMC&index=7)    |
 | Fleur 4    |  [pov: you're in winterfell](https://www.youtube.com/watch?v=lZMtOF8Qcjs)    |
 
-###Évolution visuelle et narrative
+
 
 ## Références artistiques
-|   |  |
+### Évolution visuelle et narrative
+
+| fleur sans detection | fleur avec detection |
 | -------- | ------- |
 | ![8](https://github.com/user-attachments/assets/746ed0f4-7505-4eed-a6af-d01107712587) | ![5](https://github.com/user-attachments/assets/8d9e8056-1b64-453d-b42f-58adbf141b36)   |
 | ![11](https://github.com/user-attachments/assets/03e2511b-6444-45fd-9cf8-96d9125de50d)  | ![2](https://github.com/user-attachments/assets/9eaea1ae-66d5-4530-ac5f-c0d044bfd5ff)   |
