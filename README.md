@@ -63,10 +63,9 @@ Voici les 4 groupes dans le projets:
 | ![9](https://github.com/user-attachments/assets/95835566-c4f6-4c12-803e-868267b2b34c)  | ![4](https://github.com/user-attachments/assets/58f1d20d-a2e7-43fc-adfb-67e4d8556e1d)   |
 
 
-| Mesure de la fleur |
+| Shema des fleurs |
 | -------- |
-![Frame 16](https://github.com/user-attachments/assets/e1f099c8-4897-4c0f-a15b-b0fc4636b8f3)
-
+![Frame 16](https://github.com/user-attachments/assets/7016b98c-703b-431d-b80e-b5d5c19169f2)
 
 
 
