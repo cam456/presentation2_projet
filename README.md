@@ -83,6 +83,14 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 | Detecteur d'humain    | 1 pour que l'ambiance de base joue et 4 pour chaque fleur    |
 | Audio    | L'ambiance de base joue lorsque qu'il n'y a aucune interaction et lors des interactions    |
 
+### Matériel pour les fleurs
+* Black EVA Foam
+* Foam clay
+* Aérosols Acrylique (vert, Jaune, blanc, rose, bleu)
+* Tuyau en PVC
+* Bois pour la platforme
+
+  
 ### Matériel utiliser
 * 5 Detecteur d'humain coder avec arduino
 * 4 Moteur arduino
