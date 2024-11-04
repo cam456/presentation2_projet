@@ -19,11 +19,16 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 
 ## Faisabilité
 Le projet sera fait au cours de 6 mois afin d'assurer que les problèmes puisse étre régler.
-Il y aura quatre groupe crée pour ce projet. 
-* Organisateur
-* sons
-* technologie
-* montage des fleurs
+
+Voici les 4 groupes dans le projets:
+
+| Nom du rôle   | description |
+| -------- | ------- |
+| Organisateur  | Il on pour role de distribuer le travail et de s'assurer que les date de finission soit assurer  |
+| Musicien  | Il on pour role de crée la trame sonor pour l'Ambiance sans intéraction, avecv interaciton et pour chaque fleur|
+| Technologie  | Il on pour role de crée le code entre les detecteurs de mouvement et l'activation des trames sonor de la sale et des fleur |
+| Sculpteur   | Il on pour role de crée crée les fleurs avec du matériel légé pour le transpore |
+
 
 ## Scénario Interactif
 ![scenario](https://github.com/user-attachments/assets/624e50db-6a62-46eb-94c8-a3ea8c381487)
@@ -96,6 +101,7 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 | Audio    | L'ambiance de base joue lorsque qu'il n'y a aucune interaction et lors des interactions    |
 
 ### Matériel pour les fleurs
+* Fabrique
 * Black EVA Foam
 * Foam clay
 * Aérosols Acrylique (vert, Jaune, blanc, rose, bleu)
