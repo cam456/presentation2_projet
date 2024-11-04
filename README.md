@@ -88,7 +88,7 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 
 | Circulation des visiteurs |
 | -------- |
-![16](https://github.com/user-attachments/assets/1cdb7726-3258-4377-a75f-d4d9f541ae26)
+![Frame 15](https://github.com/user-attachments/assets/f742d3d4-d0dd-43ef-82f8-d3a0846f84ae)
 
 
 
