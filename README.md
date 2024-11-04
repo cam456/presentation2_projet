@@ -89,6 +89,10 @@ Les ambiances choisies créent un environnement féerique et calme qui rend les 
 ![13](https://github.com/user-attachments/assets/aa4f8697-b1fb-41e5-b218-099d159721d3)
 ![15](https://github.com/user-attachments/assets/c0fbd333-141a-46f1-86ae-6fe79c77fe85)
 
+| Shema Technique |
+| -------- |
+![image](https://github.com/user-attachments/assets/88b6197a-3a69-4fb1-8a2f-f52b9c85e366)
+
 | Circulation des visiteurs |
 | -------- |
 ![Frame 15](https://github.com/user-attachments/assets/f742d3d4-d0dd-43ef-82f8-d3a0846f84ae)
