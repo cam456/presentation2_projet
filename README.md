@@ -18,7 +18,7 @@ Crée une expérience relaxante et magique qui relie les personnes entre elles.
 La pendémie a rendu les connexions humaines organiques très difficiles à établir. Cette installation a pour but de les recréer avec la collaboration d'autres êtres humains.
 
 ## Faisabilité
-Le projet sera fait au cours de 6 mois afin d'assurer que les problèmes puisse étre régler.
+Le projet sera fait au cours de 6 mois afin d'assurer de la succession.
 
 Voici les 4 groupes dans le projets:
 
