@@ -11,8 +11,6 @@ Dans une salle, il y a quatre fleurs, une dans chaque coin. Quand elles ne sont 
 | ![image](https://github.com/user-attachments/assets/45eae04b-ebb2-4129-8e74-7171c3e5c1d9)  | ![12](https://github.com/user-attachments/assets/092cb94b-6e8a-421d-90e6-d60dfae3f006)   |
 
 
-
-
 ### Objectif
 Crée une expérience relaxante et magique qui relie les personnes entre elles.
 
@@ -41,8 +39,21 @@ La pendémie a rendu les connexions humaines organiques très difficiles à éta
 | Fleur 3    |  [pov: you're a heartbroken werewolf](https://www.youtube.com/watch?v=8ezZtyN03S0&list=PLqpeMhCB55Cn803YyDNMm_rJMJFQI9zMC&index=7)    |
 | Fleur 4    |  [pov: you're in winterfell](https://www.youtube.com/watch?v=lZMtOF8Qcjs)    |
 
+###Évolution visuelle et narrative
 
 ## Références artistiques
+|   |  |
+| -------- | ------- |
+| ![8](https://github.com/user-attachments/assets/6265f125-1f1e-4cf5-b237-96392e9b5714) | ![5](https://github.com/user-attachments/assets/8d9e8056-1b64-453d-b42f-58adbf141b36)   |
+| ![11](https://github.com/user-attachments/assets/bac7106e-f175-429a-a80d-6d59648f0f26)  | ![2](https://github.com/user-attachments/assets/9eaea1ae-66d5-4530-ac5f-c0d044bfd5ff)   |
+| ![10](https://github.com/user-attachments/assets/91bb053d-8973-46ea-bbc3-a92e5edb6401)  | ![3](https://github.com/user-attachments/assets/0593aa1d-795e-4e50-a405-3ecaca9822da)   |
+| ![9](https://github.com/user-attachments/assets/269bff9e-14ab-47ae-927c-9aa248785423)  | ![4](https://github.com/user-attachments/assets/58f1d20d-a2e7-43fc-adfb-67e4d8556e1d)   |
+
+
+
+
+
+
 
 ### Choix esthétique et de design
 
