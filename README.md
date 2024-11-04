@@ -17,9 +17,7 @@ Crée une expérience relaxante et magique qui relie les personnes entre elles.
 ### Motivation
 La pendémie a rendu les connexions humaines organiques très difficiles à établir. Cette installation a pour but de les recréer avec la collaboration d'autres êtres humains.
 
-## Faisabilité
-Le projet sera fait au cours de 6 mois afin d'assurer de la succession.
-
+## Organisation
 Voici les 4 groupes dans le projets:
 
 | Nom du rôle   | description |
@@ -63,6 +61,12 @@ Voici les 4 groupes dans le projets:
 | ![11](https://github.com/user-attachments/assets/03e2511b-6444-45fd-9cf8-96d9125de50d)  | ![2](https://github.com/user-attachments/assets/9eaea1ae-66d5-4530-ac5f-c0d044bfd5ff)   |
 | ![10](https://github.com/user-attachments/assets/265c7390-c4cc-41f5-b120-cf23dd38488b)  | ![3](https://github.com/user-attachments/assets/0593aa1d-795e-4e50-a405-3ecaca9822da)   |
 | ![9](https://github.com/user-attachments/assets/95835566-c4f6-4c12-803e-868267b2b34c)  | ![4](https://github.com/user-attachments/assets/58f1d20d-a2e7-43fc-adfb-67e4d8556e1d)   |
+
+
+| Mesure de la fleur |
+| -------- |
+![Frame 16](https://github.com/user-attachments/assets/e1f099c8-4897-4c0f-a15b-b0fc4636b8f3)
+
 
 
 
